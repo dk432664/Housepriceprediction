@@ -9,3 +9,7 @@ using linear relation between x and y
 In the problem we are provided the dataset with label digit from 0 t0 9
 we have to predict how accurate it is in predicting the img of the digit
 and the losses held on each epochs while training the data
+
+#Happy Sad
+TO create a image classifier for a set of happy or sad Images using convolution,maxpooling2D layer and by doing dataproccessing using Imagedatagenerator
+
