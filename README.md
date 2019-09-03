@@ -12,3 +12,8 @@ and the losses held on each epochs while training the data
 
 # Happy Sad 
 TO create a  image classifier for a set of happy or sad Images using convolution,maxpooling2D layer and by doing dataproccessing using Imagedatagenerator
+
+# Sentiment In Text
+
+This exercise is the encoding of a particular word and store them into matrix It uses Api like Tokenizer ,pad_sequence and when a data is provided in list It maps the sentences and the common word in sentences when entered 2 or more times will get the same encoded number 
+otherwise if we test the data that is not mentioned in  num_words we give them special treatement by assigning  token to that word so that whenever other words are stored they are represented by special token
